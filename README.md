@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Perdana Hadi Sanjaya
 
-<!--
-**ceroberoz/ceroberoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-time Agile Tech Product Guy & FOSS Enthusiast
 
-Here are some ideas to get you started:
+I lead agile product development teams and contribute to open-source projects. Passionate about turning ideas into user-friendly tech solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I do:
+- Lead agile product teams
+- Develop innovative tech solutions
+- Contribute to FOSS
+
+### 🌱 I believe in:
+- Collaboration
+- Continuous learning
+- Open-source power
+
+### 🤝 Let's connect!
+
+Always excited to collaborate and discuss tech! Let's build something amazing together. 💻🚀
