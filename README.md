@@ -9,11 +9,9 @@ I lead agile product development teams and contribute to open-source projects. P
 - Develop innovative tech solutions
 - Contribute to FOSS
 
-### 🌱 I believe in:
-- Collaboration
-- Continuous learning
-- Open-source power
-
-### 🤝 Let's connect!
+### 🌱 Open Source Projects:
+- inEditor: LinkedIn text formatter (NodeJS)
+- ID Jobs: Indonesian job aggregator (Python)
+- AWS & GCP IP Parser: Cloud firewall tool (Python)
 
 Always excited to collaborate and discuss tech! Let's build something amazing together. 💻🚀
