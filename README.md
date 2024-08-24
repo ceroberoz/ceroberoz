@@ -10,9 +10,9 @@ I lead agile product development teams and contribute to open-source projects. P
 - Contribute to FOSS
 
 ### 🌱 Open Source Projects:
-- inEditor: LinkedIn text formatter (NodeJS)
-- ID Jobs: Indonesian job aggregator (Python)
-- AWS & GCP IP Parser: Cloud firewall tool (Python)
+- **inEditor**: NodeJS-based LinkedIn text formatter (500+ active users)
+- **ID Jobs**: Python-based job information aggregator (1000+ monthly users)
+- **AWS & GCP IP Parser**: Tool for firewall whitelist management
 
 ## Let's Connect
 Open to discussing new opportunities and tech innovations. Feel free to reach out via the provided professional email or LinkedIn.
