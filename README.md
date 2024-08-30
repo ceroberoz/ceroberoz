@@ -23,4 +23,5 @@ I’m excited to collaborate, exchange ideas, and work on amazing projects toget
 
 ☕ Love my work or just want to buy me a coffee? Your support is always appreciated!
 
-[![ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/ceroberoz)
+[![Saweria](https://img.shields.io/badge/☕%20Support%20me%20on%20Saweria-F16061?style=flat-square)](https://saweria.co/ceroberoz)
+ or [![ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/ceroberoz)
