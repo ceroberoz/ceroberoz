@@ -2,19 +2,25 @@
 
 ## 🚀 Full-time Agile Tech Product Guy & FOSS Enthusiast
 
-I lead agile product development teams and contribute to open-source projects. Passionate about turning ideas into user-friendly tech solutions.
+Welcome to my GitHub! I'm a tech enthusiast who leads agile product development teams and actively contributes to open-source projects. I’m passionate about turning ideas into practical, user-friendly solutions that make a difference.
 
-### 🛠️ What I do:
-- Lead agile product teams
-- Develop innovative tech solutions
-- Contribute to FOSS
+### 🛠️ What I Do:
+- **Lead Agile Teams:** I guide product teams to deliver impactful tech products using agile methodologies.
+- **Develop Innovative Solutions:** I love creating tech that solves real-world problems and enhances user experiences.
+- **Contribute to Open Source:** Giving back to the community through FOSS projects is a big part of what I do.
 
 ### 🌱 Open Source Projects:
-- **inEditor**: NodeJS-based LinkedIn text formatter (500+ active users)
-- **ID Jobs**: Python-based job information aggregator (1000+ monthly users)
-- **AWS & GCP IP Parser**: Tool for firewall whitelist management
+- **inEditor:** A NodeJS-based LinkedIn text formatter with over 500 active users.
+- **ID Jobs:** A Python-based job information aggregator serving 1,000+ users monthly.
+- **AWS & GCP IP Parser:** A handy tool for managing firewall whitelists across cloud platforms.
 
-## Let's Connect
-Open to discussing new opportunities and tech innovations. Feel free to reach out via the provided professional email or LinkedIn.
+## 🤝 Let’s Connect
+I’m always open to exploring new opportunities, discussing tech innovations, or just having a good chat about all things tech. You can reach out to me via my [LinkedIn](https://id.linkedin.com/in/perdanahadisanjaya) or through the contact info provided here.
 
-Always excited to collaborate and discuss tech! Let's build something amazing together. 💻🚀
+I’m excited to collaborate, exchange ideas, and work on amazing projects together. Let’s build something great! 💻🚀
+
+---
+
+☕ Love my work or just want to buy me a coffee? Your support is always appreciated!
+
+[![ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/ceroberoz)
