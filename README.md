@@ -13,6 +13,7 @@ Welcome to my GitHub! I’m a tech enthusiast with a passion for leading agile p
 - **inEditor:** A LinkedIn text formatter built with TypeScript and AI aggregation, serving over 1,400 users monthly.
 - **ID Jobs:** A job information aggregator powered by Python, reaching more than 1,000 users each month.
 - **AWS & GCP IP Parser:** A handy tool for managing firewall whitelists across cloud platforms.
+- **Telollama**: A multilingual Telegram bot that mimics Asuka from Neon Genesis Evangelion, using multiple AI models to create dynamic, personality-driven conversations.
 
 ## 🤝 Let’s Connect!
 I’m always excited to connect with others—whether it’s exploring new opportunities, chatting about tech innovations, or just sharing ideas. Feel free to reach out to me on [LinkedIn](https://id.linkedin.com/in/perdanahadisanjaya) or through the contact info provided here.
